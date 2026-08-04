@@ -175,15 +175,15 @@ Improve product descriptions and customer experience to reduce returns, especial
 
 ### Returns Analysis
 
-![Returns Analysis](images/Returns_Analysis.png)
+![Returns Analysis](images/Returns-Analysis.png)
 
 ### Marketing Performance
 
-![Marketing Performance](images/Marketing_Performance.png)
+![Marketing Performance](images/Marketing-Performance.png)
 
 ### Budget Optimization
 
-![Budget Optimization](images/Budget_Optimization.png)
+![Budget Optimization](images/Budget-Optimization.png)
 
 ---
 
