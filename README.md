@@ -167,23 +167,23 @@ Improve product descriptions and customer experience to reduce returns, especial
 
 ### Product Profitability
 
-![Product Profitability](Images/Product-Profitability.png)
+![Product Profitability](images/Product-Profitability.png)
 
 ### Sales Channel Analysis
 
-![Channel Performance](Images/Channel-Performance.png)
+![Channel Performance](images/Channel-Performance.png)
 
 ### Returns Analysis
 
-![Returns Analysis](Images/returns_analysis.png)
+![Returns Analysis](images/returns_analysis.png)
 
 ### Marketing Performance
 
-![Marketing Performance](Images/marketing_performance.png)
+![Marketing Performance](images/marketing_performance.png)
 
 ### Budget Optimization
 
-![Budget Optimization](Images/budget_optimization.png)
+![Budget Optimization](images/budget_optimization.png)
 
 ---
 
